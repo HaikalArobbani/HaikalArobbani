@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##It's Me, Haikal Ahmad Robbani 
+
+You can call me Haikal
+- 🌱 I’m currently learning Web Development and Cloud Computing
+- Nice to meet you
+
