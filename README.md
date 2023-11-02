@@ -6,10 +6,10 @@ I'm a student in Nurul Fikri Universty
 i have interest in web developmen
 
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🔭 I’m currently Join program  on bangkit academy
 - 🌱 I’m currently learning about cloud computing
 - 📫 How to reach me: haikalrobbani41@gmail.com
-- ⚡ Fun fact: rampage with lich once
+- ⚡ Fun fact: once rampaged with a lich
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
