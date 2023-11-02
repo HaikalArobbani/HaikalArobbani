@@ -31,7 +31,5 @@ i have interest in web developmen
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://www.linkedin.com/in/haikal-ahmad-robbani-130424228/">LinkedIn</a>
+
